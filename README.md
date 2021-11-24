@@ -3,7 +3,7 @@
 
 <div align="center">
   
-## I used for this project
+## I used these for this project
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
 <img src="https://img.shields.io/badge/Redux-20232A?style=flat-square&logo=Redux&logoColor=764ABC" /></a>
 
